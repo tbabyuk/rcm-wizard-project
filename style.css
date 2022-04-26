@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Ovo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+    height: 100vh;
+}
+
+:root {
+  --title-font: 'Ovo', serif;
+  --text-font: 'Roboto', sans-serif;
+}
+
+.title {
+  font-family: var(--title-font)
+}
+
+.text {
+  font-family: var(--text-font)
+}
+
+.bg-rcm {
+  background-image: linear-gradient(to right, #241773,#216dab);
+}
+
+.dcam-logo {
+  background-image: url("img/dcam-white.png");
+  background-size: 150px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.page-title {
+  position: relative;
+}
+
+.rcm-logo {
+  background-image: url("img/rcm.png");
+  background-size: 130px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.banner {
+  border-bottom: 2px solid #0a0a0a;
+}
+
+.level-selector {
+  width: 90%;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.col-heading {
+  background-color: hsl(0, 0%, 91%);
+}
+
+  .notes {
+    width: 80%;
+  }
+
+  .select-col {
+    height: 100%;
+    background-color: hsl(0, 0%, 91%)
+  }
