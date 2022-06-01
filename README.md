@@ -1,6 +1,6 @@
 # RCM Exam Wizard
 
-See it live: [RCM Exam Wizard](https://rcm-wizard.dacapomusic.ca/)
+See it live: [RCM Exam Wizard](https://wondrous-kheer-3bef24.netlify.app/)
 
 ## Description
 A simple web app (desktop and mobile-friendly) that lets users select a specific examination level from a drop-down menu and see a neat summary of everything they need to learn for that particular exam.
