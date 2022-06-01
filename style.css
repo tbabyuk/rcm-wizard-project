@@ -7,7 +7,7 @@
 }
 
 body {
-    height: 100vh;
+  height: 100vh;
 }
 
 :root {
@@ -16,33 +16,19 @@ body {
 }
 
 .title {
-  font-family: var(--title-font)
+  font-family: var(--title-font);
 }
 
 .text {
-  font-family: var(--text-font)
+  font-family: var(--text-font);
 }
 
 .bg-rcm {
-  background-image: linear-gradient(to right, #241773,#216dab);
-}
-
-.dcam-logo {
-  background-image: url("img/dcam-white.png");
-  background-size: 150px;
-  background-repeat: no-repeat;
-  background-position: center;
+  background-image: linear-gradient(to right, #241773, #216dab);
 }
 
 .page-title {
   position: relative;
-}
-
-.rcm-logo {
-  background-image: url("img/rcm.png");
-  background-size: 130px;
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .banner {
@@ -59,11 +45,11 @@ body {
   background-color: hsl(0, 0%, 91%);
 }
 
-  .notes {
-    width: 80%;
-  }
+.notes {
+  width: 80%;
+}
 
-  .select-col {
-    height: 100%;
-    background-color: hsl(0, 0%, 91%)
-  }
+.select-col {
+  height: 100%;
+  background-color: hsl(0, 0%, 91%);
+}
